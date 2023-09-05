@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "titulo": "Casa de campo",
+    "autor": "Juan Perez",
+    "editorial": "Editorial 1",
+    "descripcion": "Una emocionante novela sobre la vida en el campo.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 2,
+    "titulo": "Viaje al futuro",
+    "autor": "Maria Rodriguez",
+    "editorial": "Editorial 2",
+    "descripcion": "Un libro que explora las posibilidades del futuro.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 3,
+    "titulo": "Historia de un amor perdido",
+    "autor": "Luis Gutierrez",
+    "editorial": "Editorial 3",
+    "descripcion": "Una conmovedora historia de amor y pérdida.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 4,
+    "titulo": "Misterio en la mansión",
+    "autor": "Ana Sanchez",
+    "editorial": "Editorial 4",
+    "descripcion": "Una emocionante novela de misterio en una mansión antigua.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 5,
+    "titulo": "Aventuras en la selva",
+    "autor": "Carlos Martinez",
+    "editorial": "Editorial 5",
+    "descripcion": "Un emocionante viaje a la selva tropical.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 6,
+    "titulo": "La isla misteriosa",
+    "autor": "Laura Hernandez",
+    "editorial": "Editorial 6",
+    "descripcion": "Una emocionante historia de supervivencia en una isla desierta.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 7,
+    "titulo": "El secreto de la montaña",
+    "autor": "Pedro Gomez",
+    "editorial": "Editorial 7",
+    "descripcion": "Una aventura en busca de un tesoro oculto en las montañas.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 8,
+    "titulo": "Amor en París",
+    "autor": "María López",
+    "editorial": "Editorial 8",
+    "descripcion": "Una historia romántica ambientada en la hermosa París.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 9,
+    "titulo": "El misterio del faro",
+    "autor": "Carlos Rodriguez",
+    "editorial": "Editorial 9",
+    "descripcion": "Una trama llena de intriga en un faro solitario en la costa.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 10,
+    "titulo": "Revolución en el espacio",
+    "autor": "Ana Martínez",
+    "editorial": "Editorial 10",
+    "descripcion": "Una novela de ciencia ficción sobre la colonización del espacio.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 11,
+    "titulo": "El camino a la libertad",
+    "autor": "Luisa Ramirez",
+    "editorial": "Editorial 11",
+    "descripcion": "La lucha por la libertad en tiempos de opresión.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 12,
+    "titulo": "Los tesoros del mar",
+    "autor": "Juan Martinez",
+    "editorial": "Editorial 12",
+    "descripcion": "Una emocionante búsqueda de tesoros en el océano.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 13,
+    "titulo": "El secreto del bosque encantado",
+    "autor": "Isabel Fernández",
+    "editorial": "Editorial 13",
+    "descripcion": "Una historia de magia y aventuras en un bosque misterioso.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 14,
+    "titulo": "Atrapa al ladrón",
+    "autor": "Miguel González",
+    "editorial": "Editorial 14",
+    "descripcion": "Un thriller lleno de acción persiguiendo a un astuto ladrón.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 15,
+    "titulo": "El último viaje del capitán",
+    "autor": "Elena Torres",
+    "editorial": "Editorial 15",
+    "descripcion": "Una epopeya marina en busca de un tesoro perdido.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 16,
+    "titulo": "La ciudad perdida",
+    "autor": "Javier Sánchez",
+    "editorial": "Editorial 16",
+    "descripcion": "Una expedición en busca de una antigua ciudad desaparecida.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 17,
+    "titulo": "El misterio de la mansión abandonada",
+    "autor": "Laura Martinez",
+    "editorial": "Editorial 17",
+    "descripcion": "Un enigma oculto en una antigua mansión desierta.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 18,
+    "titulo": "La llave del tiempo",
+    "autor": "Pedro Ramirez",
+    "editorial": "Editorial 18",
+    "descripcion": "Un viaje en el tiempo lleno de sorpresas y desafíos.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 19,
+    "titulo": "El regreso del héroe",
+    "autor": "María López",
+    "editorial": "Editorial 19",
+    "descripcion": "La emocionante historia del retorno de un héroe.",
+    "imagen": "https://picsum.photos/48"
+  },
+  {
+    "id": 20,
+    "titulo": "El enigma del desierto",
+    "autor": "Carlos Rodriguez",
+    "editorial": "Editorial 20",
+    "descripcion": "Un misterio en medio del vasto desierto.",
+    "imagen": "https://picsum.photos/48"
+  }
+]
